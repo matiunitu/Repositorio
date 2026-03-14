@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import BurgerMenu from "./BurgerMenu";
 import Logo from "./Logo";
 import NavBar from "./NavBar";
-import ResumeLink from "./ResumeLink";
 import crossIcon from "../../assets/cross.svg";
 
 export default function Header() {
@@ -38,7 +37,6 @@ export default function Header() {
         </>
       )}
       <NavBar isMenuOpen={isMenuOpen} closeMenu={() => setIsMenuOpen(false)} />
-      <ResumeLink isMenuOpen={isMenuOpen} />
     </header>
   );
 }

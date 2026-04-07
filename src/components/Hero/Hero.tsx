@@ -26,7 +26,7 @@ export default function Hero() {
             />
           </h1>
           <p>
-            <span className="font-extrabold">Desarrolladora </span>
+            <span className="font-extrabold">Desarrollador </span>
             <span className="text-primary-white text-stroke-1 text-stroke-primary-black font-extrabold">
               Backend
             </span>
@@ -37,9 +37,9 @@ export default function Hero() {
           </p>
         </div>
         <p className="text-base/6 font-normal text-zinc-500">
-          Soy una entusiasta de la tecnología apasionada y altamente motivada, con un fuerte enfoque en el desarrollo de soluciones innovadoras. Me especializo en desarrollo backend y también cuento con habilidades en desarrollo web, trabajando con lógica de negocio, APIs, bases de datos y arquitectura de sistemas para crear aplicaciones eficientes, seguras y escalables.
+          Soy un entusiasta de la tecnología apasionado y altamente motivado, con un fuerte enfoque en el desarrollo de soluciones innovadoras. Me especializo en desarrollo backend y también cuento con habilidades en desarrollo web, trabajando con lógica de negocio, APIs, bases de datos y arquitectura de sistemas para crear aplicaciones eficientes, seguras y escalables.
           <br /><br />
-          Mi objetivo es seguir creciendo como desarrolladora y contribuir a proyectos significativos dentro de la dinámica y siempre cambiante industria tecnológica, aplicando mis habilidades para resolver problemas del mundo real y construir sistemas sólidos y confiables.
+          Mi objetivo es seguir creciendo como desarrollador y contribuir a proyectos significativos dentro de la dinámica y siempre cambiante industria tecnológica, aplicando mis habilidades para resolver problemas del mundo real y construir sistemas sólidos y confiables.
         </p>
         <div className="lg:mt-10">
           <SocialMedia />

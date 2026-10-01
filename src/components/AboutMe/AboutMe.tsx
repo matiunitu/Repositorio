@@ -28,7 +28,7 @@ export default function AboutMe() {
             transition={{ duration: 1, type: "spring" }}
             viewport={{ once: true }}
           >
-            Soy un desarrollador Backend de nivel intermedio, apasionado por crear aplicaciones web eficientes, seguras y escalables. Tengo experiencia desarrollando la parte backend de páginas web, utilizando tecnologías modernas para construir APIs, gestionar bases de datos y manejar la lógica de negocio de las aplicaciones.
+            Soy un desarrollador full-stack apasionado por crear aplicaciones web eficientes, seguras y fáciles de usar. Puedo trabajar tanto en interfaces de usuario como en servicios backend, conectando cada parte para ofrecer experiencias completas.
           </motion.p>
           <motion.p
             initial={{ y: 50, opacity: 0 }}
@@ -36,7 +36,7 @@ export default function AboutMe() {
             transition={{ duration: 2, type: "spring" }}
             viewport={{ once: true }}
           >
-            He trabajado con Node.js, Express.js, Prisma y MongoDB Atlas desarrollando sistemas backend que incluyen autenticación, gestión de usuarios y manejo de datos. Uno de mis proyectos fue un sistema de inventarios, donde desarrollé un CRUD completo con roles de usuario y autenticación mediante JWT. En este sistema es posible agregar, editar y eliminar productos, así como gestionar su precio a través de una API que controla todo el inventario.
+            En el frontend trabajo con React, Next.js, JavaScript y TypeScript para construir interfaces web. En el backend he desarrollado APIs con Node.js, Express.js y Python, además de trabajar con bases de datos como MongoDB y PostgreSQL.
           </motion.p>
           <motion.p
             initial={{ y: 50, opacity: 0 }}
@@ -44,7 +44,7 @@ export default function AboutMe() {
             transition={{ duration: 3, type: "spring" }}
             viewport={{ once: true }}
           >
-            También desarrollé una aplicación web para la gestión de peticiones PQRS de una universidad, donde implementé un backend completo utilizando Python y FastAPI. En este proyecto trabajé con una base de datos PostgreSQL usando Neon, desarrollando una API más grande con múltiples endpoints y operaciones CRUD para manejar solicitudes, usuarios y estados de las peticiones.
+            Entre mis proyectos hay un sistema de inventarios con gestión de productos, roles de usuario y autenticación JWT, y una aplicación de gestión de peticiones PQRS desarrollada con FastAPI y PostgreSQL. Estas experiencias me han permitido participar en distintas capas de aplicaciones web.
           </motion.p>
           <motion.p
             initial={{ y: 50, opacity: 0 }}
@@ -52,7 +52,7 @@ export default function AboutMe() {
             transition={{ duration: 4, type: "spring" }}
             viewport={{ once: true }}
           >
-            Estas experiencias me han permitido fortalecer mis habilidades en desarrollo de APIs, diseño de bases de datos y construcción de sistemas backend robustos, además de mejorar mi capacidad para resolver problemas y desarrollar soluciones prácticas para proyectos reales.
+            También utilizo herramientas de inteligencia artificial como OpenAI, Claude de Anthropic y Google Antigravity para apoyar mi proceso de desarrollo y explorar nuevas formas de crear soluciones.
           </motion.p>
         </article>
       </div>

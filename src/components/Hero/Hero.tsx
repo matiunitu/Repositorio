@@ -28,7 +28,7 @@ export default function Hero() {
           <p>
             <span className="font-extrabold">Desarrollador </span>
             <span className="text-primary-white text-stroke-1 text-stroke-primary-black font-extrabold">
-              Backend
+              Full-Stack
             </span>
           </p>
           <p>
@@ -37,9 +37,9 @@ export default function Hero() {
           </p>
         </div>
         <p className="text-base/6 font-normal text-zinc-500">
-          Soy un entusiasta de la tecnología apasionado y altamente motivado, con un fuerte enfoque en el desarrollo de soluciones innovadoras. Me especializo en desarrollo backend y también cuento con habilidades en desarrollo web, trabajando con lógica de negocio, APIs, bases de datos y arquitectura de sistemas para crear aplicaciones eficientes, seguras y escalables.
+          Soy un desarrollador full-stack apasionado por crear aplicaciones web completas: desde interfaces modernas y responsivas hasta APIs, lógica de negocio y bases de datos. Trabajo con tecnologías como React, Next.js, Node.js y Python para construir soluciones eficientes y escalables.
           <br /><br />
-          Mi objetivo es seguir creciendo como desarrollador y contribuir a proyectos significativos dentro de la dinámica y siempre cambiante industria tecnológica, aplicando mis habilidades para resolver problemas del mundo real y construir sistemas sólidos y confiables.
+          También incorporo herramientas de inteligencia artificial en mi flujo de trabajo y sigo creciendo para resolver problemas reales con tecnología.
         </p>
         <div className="lg:mt-10">
           <SocialMedia />
@@ -55,7 +55,7 @@ export default function Hero() {
       >
         <img
           src={heroImage}
-          alt="Mathew Kelsey - Backend Developer"
+          alt="Mathew Kelsey - Full-Stack Developer"
           fetchPriority="high"
           className="max-h-[750px] pb-8 sm:w-[539px] xl:w-630"
         />

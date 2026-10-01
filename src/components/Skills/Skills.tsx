@@ -84,6 +84,15 @@ export default function Skills() {
         <SkillCard title="Next JS">
           <NextJsIcon className="group-hover:fill-primary-white" />
         </SkillCard>
+        <SkillCard title="OpenAI">
+          <div className="text-3xl font-bold group-hover:text-primary-white">AI</div>
+        </SkillCard>
+        <SkillCard title="Claude (Anthropic)">
+          <div className="text-3xl font-bold group-hover:text-primary-white">C</div>
+        </SkillCard>
+        <SkillCard title="Google Antigravity">
+          <div className="text-3xl font-bold group-hover:text-primary-white">AG</div>
+        </SkillCard>
         <SkillCard title="GIT">
           <GitIcon className="group-hover:fill-primary-white" />
         </SkillCard>
